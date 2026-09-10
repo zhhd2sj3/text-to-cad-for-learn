@@ -34,6 +34,8 @@ A library of agent skills for CAD, CAE and CAM
 
 # text-to-cad
 
+> This fork is for zhanghanghang study learn cad ai agent use.
+
 text-to-cad is a library of agent skills for generating, inspecting, sourcing,
 slicing, and handing off CAD and robot-description artifacts from local project
 files.
